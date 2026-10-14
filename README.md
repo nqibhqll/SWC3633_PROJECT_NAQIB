@@ -3,7 +3,7 @@
 
 ## Event Ticketing and Venue Booking System
 
-EventHub is a web-based application developed for the Web API Development course. The system allows users to manage events, venues, ticket bookings, and user accounts through a RESTful API.
+EventHub is a web-based application developed for the Web API Development course. The system allows users to manage events, venues, ticket bookings and user accounts through a RESTful API.
 
 ## Technologies Used
 - PHP
@@ -55,7 +55,7 @@ EventHub is a web-based application developed for the Web API Development course
 6. Open `http://localhost/eventhub/frontend/login.php`.
 
 ## API Testing
-Postman is used to test RESTful API requests, HTTP status codes, authentication, and error handling.
+Postman is used to test RESTful API requests, HTTP status codes, authentication and error handling.
 
 ## Project Information
 Course: Web API Development
